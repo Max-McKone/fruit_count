@@ -13,3 +13,5 @@ amount = fruits_sanitized.count(to_count)
 
 # hier nutzen wir string interpolation!
 print(f"Die Frucht '{to_count}' kommt {amount} Mal in der Liste vor.")
+
+print('TEST!')
